@@ -17,13 +17,13 @@ Instead of writing complex SQL queries or Python scripts manually, users can sim
 ## 📂 Project Structure
 
 ```text
-├── main.py                 # Core FastAPI application & AI Agent logic
-├── generate_dataset.py     # Script to create synthetic dummy data (Faker)
-├── test_api.py             # Automated testing suite (creates PDF report)
-├── Dockerfile              # Container configuration (Python 3.9 Slim)
-├── requirements.txt        # Project dependencies
-├── .env                    # API Keys (Not included in repo)
-└── README.md               # Documentation
+├── main4.py                 # Core FastAPI application & AI Agent logic
+├── generate_dataset.py      # Script to create synthetic dummy data (Faker)
+├── test_api.py              # Automated testing suite (creates PDF report)
+├── Dockerfile               # Container configuration (Python 3.9 Slim)
+├── requirements.txt         # Project dependencies
+├── .env                     # API Keys (Not included in repo)
+└── README.md                # Documentation
 ```
 
 ---
